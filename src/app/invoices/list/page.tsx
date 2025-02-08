@@ -71,7 +71,7 @@ function InvoiceListContent() {
 
   return (
     <Box sx={{ p: 3 }}>
-      <Box sx={{ display: "flex", justifyContent: "space-between"}}>
+      <Box sx={{ display: "flex", justifyContent: "space-between", marginBottom: "16px"}}>
         <Typography variant="h4">
           My Invoice
         </Typography>

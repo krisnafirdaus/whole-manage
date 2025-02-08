@@ -2,6 +2,12 @@
 
 A modern web application for managing invoices with features like filtering, status tracking, and CRUD operations.
 
+## Live Demo
+
+Explore the live demo: [https://whole-manage.vercel.app/](https://whole-manage.vercel.app/)
+
+Try out the invoice management system directly in your browser. Experience all features including creating, updating, and filtering invoices in real-time.
+
 ## Features
 
 - Create, view, update, and delete invoices
@@ -81,4 +87,3 @@ pnpm build
 To start the production server:
 ```bash
 pnpm start
-```
